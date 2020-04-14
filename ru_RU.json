@@ -98,7 +98,7 @@
 "gamemode.glory.caps": "СЛАВА",
 "gamemode.glory": "Слава",
 "gamemode.glory.description": "достигните первым {0} очков для победы",
-"gamemode.glory.win": "The {0} points score was reached!",
+"gamemode.glory.win": "{0} очков было достигнуто!",
 "gamemode.might.caps": "МОЩЬ",
 "gamemode.might": "Мощь",
 "gamemode.might.description": "Захватите все столицы для победы",
